@@ -72,8 +72,8 @@ void evalprefix(char p[50])
 ```
 
 ## Output:
+![image-3](https://github.com/user-attachments/assets/67a879cf-2630-4515-afd4-0ccde21f57a7)
 
-![alt text](image-3.png)
 
 ## Result:
 Thus, the C program to evaluate the prefix expression using stack and print the output of the given prefix expression from the stack inside the function is implemented successfully.
